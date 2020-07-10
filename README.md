@@ -13,7 +13,7 @@ Usage of kvphishing for attacking targets without prior mutual consent is illega
 
 ##### Usage:
 ```
-git clone https://github.com/xHak9x/SocialPhish.git
+git clone https://github.com/Kisnahero/kvphishing.git
 cd kvphishing
 chmod +x kvphishing.sh
 ./kvphish.sh
