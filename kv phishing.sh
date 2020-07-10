@@ -204,17 +204,22 @@ fi
 banner() {
 
  
-printf "\e[1;77m /$$                                  /$$       /$$           /$$       /$$    \e[0m\n"              
-printf "\e[1;77m | $$                                 | $$      |__/          | $$      |__/   \e[0m\n"            
-printf "\e[1;77m | $$   /$$ /$$    /$$        /$$$$$$ | $$$$$$$  /$$  /$$$$$$$| $$$$$$$  /$$ /$$$$$$$   /$$$$$$  \e[0m\n"
-printf "\e[1;77m | $$  /$$/|  $$  /$$/       /$$__  $$| $$__  $$| $$ /$$_____/| $$__  $$| $$| $$__  $$ /$$__  $$  \e[0m\n"
-printf "\e[1;77m | $$$$$$/  \  $$/$$/       | $$  \ $$| $$  \ $$| $$|  $$$$$$ | $$  \ $$| $$| $$  \ $$| $$  \ $$  \e[0m\n"
-printf "\e[1;77m | $$_  $$   \  $$$/        | $$  | $$| $$  | $$| $$ \____  $$| $$  | $$| $$| $$  | $$| $$  | $$  \e[0m\n"
-printf "\e[1;77m | $$ \  $$   \  $/         | $$$$$$$/| $$  | $$| $$ /$$$$$$$/| $$  | $$| $$| $$  | $$|  $$$$$$$  \e[0m\n"
-printf "\e[1;77m |__/  \__/    \_/          | $$____/ |__/  |__/|__/|_______/ |__/  |__/|__/|__/  |__/ \____  $$  \e[0m\n"
-printf  "\e[1;77m                         | $$                                                       /$$  \ $$    \e[0m\n"
-printf "\e[1;77m                   | $$                                                             |  $$$$$$/        \e[0m\n"
-printf "\e[1;77m      Author = kisna verma   email = hlost2331@gmail.com                |__/                                                       \______/ "  \e[0m\n"
+           
+printf "\e[1;77m                                       
+printf "\e[1;77m 
+printf "\e[1;77m  __                   .__    .__       .__    \e[0m\n"
+printf "\e[1;77m  |  | _____  __ ______ |  |__ |__| _____|  |__  \e[0m\n"
+printf "\e[1;77m  |  |/ /\  \/ / \____ \|  |  \|  |/  ___/  |  \  \e[0m\n"
+printf "\e[1;77m  |    <  \   /  |  |_> >   Y  \  |\___ \|   Y  \  \e[0m\n"
+printf "\e[1;77m  |__|_ \  \_/   |   __/|___|  /__/____  >___|  /     \/        |__|        \/        \/     \/ \e[0m\n"
+printf "\e[1;77m                 /   /
+printf "\e[1;77m                 /   /
+printf "\e[1;77m                 / _ /
+printf "\e[1;77m                  
+printf "\e[1;77m       AUTHOR = KISNA VERMA        EMAIL =hlost2331@gmail.com         \e[0m\n"
+printf  "\e[1;77m          GIT HUB = www.github.com/Kisnahero                          \e[0m\n"                                   
+printf "\e[1;77m                                                                           
+printf "\e[1;77m      
 printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: kisna verma \e[0m\e[1;93m.:.:.\e[0m\n"  \e[0m\n"
 printf "\n"
 }
