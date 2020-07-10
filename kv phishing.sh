@@ -213,9 +213,9 @@ printf "\e[1;77m | $$_  $$   \  $$$/        | $$  | $$| $$  | $$| $$ \____  $$| 
 printf "\e[1;77m | $$ \  $$   \  $/         | $$$$$$$/| $$  | $$| $$ /$$$$$$$/| $$  | $$| $$| $$  | $$|  $$$$$$$  \e[0m\n"
 printf "\e[1;77m |__/  \__/    \_/          | $$____/ |__/  |__/|__/|_______/ |__/  |__/|__/|__/  |__/ \____  $$  \e[0m\n"
 printf  "\e[1;77m                         | $$                                                       /$$  \ $$    \e[0m\n"
-printf "\e[1;77m                   | $$                                                      |  $$$$$$/    \e[0m\n"
-printf "\e[1;77m                        |__/                                                       \______/ "  \e[0m\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: @Hak9 \e[0m\e[1;93m.:.:.\e[0m\n"  \e[0m\n"
+printf "\e[1;77m                   | $$                                                             |  $$$$$$/        \e[0m\n"
+printf "\e[1;77m      Author = kisna verma   email = hlost2331@gmail.com                |__/                                                       \______/ "  \e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: kisna verma \e[0m\e[1;93m.:.:.\e[0m\n"  \e[0m\n"
 printf "\n"
 }
 
